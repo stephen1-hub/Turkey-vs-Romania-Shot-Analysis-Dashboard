@@ -59,3 +59,10 @@ Python (Pandas, NumPy)
 Matplotlib
 mplsoccer
 Streamlit
+
+## requirements.txt
+streamlit
+pandas
+matplotlib
+numpy
+mplsoccer
