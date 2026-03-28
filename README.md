@@ -1,4 +1,12 @@
 # Turkey-vs-Romania-Shot-Analysis-Dashboard
+
+turkey-vs-romania-shot-analysis-dashboard/
+│
+├── app1.py          👈 your Streamlit app
+├── shots1.csv       👈 your data
+├── requirements.txt 👈 CREATE IT HERE
+├── README.md
+
 ## Live Demo: ()
 ## Objective
 
