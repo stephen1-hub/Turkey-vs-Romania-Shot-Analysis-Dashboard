@@ -32,7 +32,7 @@ Reveals deeper shot locations and fewer attempts
 
 👉 (Include your screenshot in /assets and display it)
 
-## Data Challenge & Solution (THIS IS YOUR EDGE)
+## Data Challenge & Solution
 
 Problem:
 There was a mismatch between raw data and visualization:
