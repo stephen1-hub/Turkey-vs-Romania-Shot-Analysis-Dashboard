@@ -30,7 +30,6 @@ Shot Map (Romania)
 Adjusted for attacking direction
 Reveals deeper shot locations and fewer attempts
 
-👉 (Include your screenshot in /assets and display it)
 
 ## Data Challenge & Solution
 
