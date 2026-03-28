@@ -61,8 +61,8 @@ mplsoccer
 Streamlit
 
 ## requirements.txt
-streamlit
-pandas
-matplotlib
-numpy
-mplsoccer
+streamlit==1.32.0
+pandas==2.2.2
+matplotlib==3.8.4
+numpy==1.26.4
+mplsoccer==1.2.4
