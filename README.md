@@ -7,7 +7,7 @@ turkey-vs-romania-shot-analysis-dashboard/
 ├── requirements.txt 👈 CREATE IT HERE
 ├── README.md
 
-## Live Demo: ()
+## Live Demo: (https://turkey-vs-romania-shot-analysis-dashboard-a9e3n7hqk8jhpw2wdzuy.streamlit.app/)
 ## Objective
 
 Analyze shot patterns and efficiency in the World Cup Qual. UEFA Playoffs match between Turkey and Romania using event data.
